@@ -1,13 +1,11 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 
-/**
- *
- * @author Admin
- */
-public class Tiger {
+public class Tiger extends Animals {
+    Tiger(String name){
+        super(name);
+    }
+    
+    void king(){
+        System.out.println(name + "is the KING");
+    }
     
 }
