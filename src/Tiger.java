@@ -5,7 +5,7 @@ public class Tiger extends Animals {
     }
     
     void king(){
-        System.out.println(name + "is the KING");
+        System.out.println(name + " is the KING");
     }
     
 }

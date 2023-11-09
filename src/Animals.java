@@ -8,10 +8,10 @@ public class Animals {
     }
     
     void hunt(){
-        System.out.println(name + "is hunting");
+        System.out.println(name + " is hunting");
     }
     
     void eat(){
-        System.out.println(name + "is eating");
+        System.out.println(name + " is eating");
     }
 }

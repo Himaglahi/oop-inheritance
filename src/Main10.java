@@ -11,6 +11,9 @@ public class Main10 {
        
        Tiger myTiger = new Tiger("MJ");
        
+       myTiger.hunt();
+       myTiger.eat();
+       
     }
     
 }
